@@ -18,7 +18,7 @@
 
 #### Backend
 
-- **Frameworks:** Node(Express.js)
+- **Frameworks:** Node(Express.js), Laravel
 - **Databases:** MySQL, MongoDB
 - **APIs:** RESTful, GraphQL
 - **Authentication/Authorization:** JWT, OAuth
