@@ -1,43 +1,120 @@
-## I am Elieser N. Tajanlangit
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=268F77&size=24&width=500&lines=Web+Developer;Nice+to+meet+you...)
-<br />
+# 💻 Elieser N. Tajanlangit
 
-![Profile views](https://komarev.com/ghpvc/?username=retsu14&color=268F77)
+### Full-Stack Developer | Problem Solver | Tech Enthusiast
 
----
+*Crafting digital experiences with clean code and innovative solutions*
 
-### Skills
+[![Profile Views](https://komarev.com/ghpvc/?username=retsu14&color=268F77&style=for-the-badge)](https://github.com/retsu14)
 
-#### Frontend
-
-- **Languages:** HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks/Libraries:** NextJs(React)
-- **Styling:**  Bootstrap, Tailwind CSS
-- **Tools:** npm
-
-#### Backend
-
-- **Frameworks:** Node(Express.js), Laravel
-- **Databases:** MySQL, MongoDB
-- **APIs:** RESTful, GraphQL
-- **Authentication/Authorization:** JWT, OAuth
-
-#### DevOps
-
-- **Version Control:** Git, GitHub, GitLab
-
+</div>
 
 ---
 
-### My GitHub Stats
+## 🚀 What I Do
 
-<p align="center">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=retsu14&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="Elieser Tajanlangit's GitHub Streak" width="52.4%" />
-    <img src="https://streak-stats.demolab.com?user=retsu14&theme=gotham&hide_border=true" alt="Elieser Tajanlangit's GitHub Stats" width="45.6%" />
-</p>
+I'm a dedicated full-stack developer who thrives on turning complex problems into elegant solutions. With expertise spanning both frontend and backend technologies, I build applications that are not only functional but also provide exceptional user experiences.
 
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=retsu14&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" alt="Elieser Tajanlangit's GitHub Activity Graph" width="100%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retsu14&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Elieser Tajanlangit's Top Languages" />
-</p>
+```typescript
+const developer = {
+  name: "Elieser N. Tajanlangit",
+  location: "Philippines",
+  focus: ["Web Development", "User Experience", "Clean Architecture"],
+  currentlyLearning: "Advanced React Patterns & System Design",
+  funFact: "I debug with console.log and I'm not ashamed of it! 🐛"
+};
+```
+
+---
+
+## ⚡ Tech Arsenal
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🎨 Frontend
+```javascript
+const frontend = {
+  languages: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript'],
+  frameworks: ['Next.js', 'React.js'],
+  styling: ['Tailwind CSS', 'Bootstrap'],
+  tools: ['npm', 'Webpack']
+};
+```
+
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ Backend
+```javascript
+const backend = {
+  frameworks: ['Node.js', 'Express.js', 'Laravel'],
+  databases: ['MySQL', 'MongoDB'],
+  apis: ['RESTful', 'GraphQL'],
+  auth: ['JWT', 'OAuth']
+};
+```
+
+</td>
+<td valign="top" width="33%">
+
+### 🛠️ DevOps & Tools
+```javascript
+const tools = {
+  versionControl: ['Git', 'GitHub', 'GitLab'],
+  practices: ['CI/CD', 'Code Review'],
+  testing: ['Unit Testing', 'API Testing'],
+  deployment: ['Vercel', 'Netlify']
+};
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Journey
+
+<div align="center">
+
+### 📊 Performance Metrics
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=retsu14&rank_icon=github&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
+
+### 🔥 Consistency Track
+<img src="https://streak-stats.demolab.com?user=retsu14&theme=gotham&hide_border=true" alt="GitHub Streak" />
+
+### 📅 Contribution Timeline
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=retsu14&theme=gotham&hide_border=true&area=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Graph" width="100%" />
+
+### 💻 Language Distribution
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retsu14&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Building scalable web applications with **Next.js** and **TypeScript**
+- 🌱 Exploring **serverless architectures** and **cloud technologies**
+- 👯 Open to collaborating on **open-source projects**
+- 💬 Ask me about **React**, **Node.js**, or **web performance optimization**
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Open for opportunities, collaborations, and interesting conversations!**
+
+*"First, solve the problem. Then, write the code."* – John Johnson
+
+---
+
+⭐️ *If you find my work interesting, consider giving it a star!*
+
+</div>
