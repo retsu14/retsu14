@@ -87,7 +87,7 @@ const tools = {
 <img src="https://streak-stats.demolab.com?user=retsu14&theme=gotham&hide_border=true" alt="GitHub Streak" />
 
 ### 📅 Contribution Timeline
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=retsu14&theme=gotham&hide_border=true&area=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=retsu14&theme=gotham&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 
 ### 💻 Language Distribution
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retsu14&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
