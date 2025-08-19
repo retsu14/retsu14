@@ -51,7 +51,7 @@ const frontend = {
 ```javascript
 const backend = {
   frameworks: ['Node.js', 'Express.js', 'Laravel'],
-  databases: ['MySQL', 'MongoDB', 'PostGreSQL'],
+  databases: ['MySQL', 'MongoDB', 'PostgreSQL'],
   apis: ['RESTful', 'GraphQL'],
   auth: ['JWT', 'OAuth']
 };
