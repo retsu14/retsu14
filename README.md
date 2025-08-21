@@ -63,10 +63,10 @@ const backend = {
 ### 🛠️ DevOps & Tools
 ```javascript
 const tools = {
-  versionControl: ['Git', 'GitHub', 'GitLab'],
+  versionControl: ['Git', 'GitHub', 'GitLab', 'Bitbucket'],
   practices: ['CI/CD', 'Code Review'],
   testing: ['Unit Testing', 'API Testing'],
-  deployment: ['Vercel', 'Netlify']
+  deployment: ['Vercel', 'Netlify', 'Cloudflare']
 };
 ```
 
