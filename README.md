@@ -66,7 +66,7 @@ const tools = {
   versionControl: ['Git', 'GitHub', 'GitLab', 'Bitbucket'],
   practices: ['CI/CD', 'Code Review'],
   testing: ['Unit Testing', 'API Testing'],
-  deployment: ['Vercel', 'Netlify', 'Cloudflare']
+  deployment: ['Vercel', 'Render', 'Cloudflare', 'Netlify']
 };
 ```
 
