@@ -6,7 +6,7 @@
 
 *Crafting digital experiences with clean code and innovative solutions*
 
-[![Profile Views]([https://komarev.com/ghpvc/?username=retsu14&color=268F77&style=for-the-badge](https://img.shields.io/badge/Profile%20views-52.130-268F77))](https://github.com/retsu14)
+https://img.shields.io/badge/Profile%20views-52.130-268F77
 
 </div>
 
