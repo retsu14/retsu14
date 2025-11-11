@@ -6,7 +6,7 @@
 
 *Crafting digital experiences with clean code and innovative solutions*
 
-https://img.shields.io/badge/Profile%20views-52.130-268F77
+![Profile views](https://img.shields.io/badge/Profile%20views-52.430-268F77)
 
 </div>
 
