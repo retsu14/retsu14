@@ -38,7 +38,7 @@ const developer = {
 ```javascript
 const frontend = {
   languages: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript'],
-  frameworks: ['Next.js', 'React.js'],
+  frameworks: ['Next.js', 'React.js', 'VueJS', 'Nuxt.js'],
   styling: ['Tailwind CSS', 'Bootstrap'],
   tools: ['npm', 'Webpack']
 };
