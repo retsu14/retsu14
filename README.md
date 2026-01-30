@@ -6,7 +6,7 @@
 
 *Crafting digital experiences with clean code and innovative solutions*
 
-[![Profile views](https://img.shields.io/badge/Profile%20views-42,431-268F77)](https://github.com/retsu14)
+[![Profile views](https://img.shields.io/badge/Profile%20views-45,431-268F77)](https://github.com/retsu14)
 
 </div>
 
