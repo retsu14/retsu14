@@ -38,7 +38,7 @@ const developer = {
 ```javascript
 const frontend = {
   languages: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript'],
-  frameworks: ['Next.js', 'React.js', 'VueJS', 'Nuxt.js', 'Angular'],
+  frameworks: ['Next.js', 'Nuxt.js', 'React.js', 'VueJS', 'Angular'],
   styling: ['Tailwind CSS', 'Bootstrap'],
   tools: ['npm', 'Webpack']
 };
@@ -50,7 +50,7 @@ const frontend = {
 ### ⚙️ Backend
 ```javascript
 const backend = {
-  frameworks: ['Node.js', 'Express.js', 'Laravel'],
+  frameworks: ['Laravel', 'Node.js', 'Express.js'],
   databases: ['MySQL', 'MongoDB', 'PostgreSQL'],
   apis: ['RESTful', 'GraphQL'],
   auth: ['JWT', 'OAuth']
@@ -66,7 +66,7 @@ const tools = {
   versionControl: ['Git', 'GitHub', 'GitLab', 'Bitbucket'],
   practices: ['CI/CD', 'Code Review'],
   testing: ['Unit Testing', 'API Testing'],
-  deployment: ['Vercel', 'Render', 'Cloudflare', 'Netlify']
+  deployment: ['VPS', 'Docker', 'Vercel', 'Render', 'Cloudflare', 'Netlify']
 };
 ```
 
