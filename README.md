@@ -23,7 +23,7 @@ $ whoami
 elieser-tajanlangit — full-stack developer, based in the Philippines
 
 $ cat ./focus.txt
-Scalable web applications · Clean architecture · Thoughtful user experience
+Scalable web applications · Clean architecture · Thoughtful user experience · DDD
 
 $ git log --oneline -1
 feat: turning complex problems into simple, elegant solutions
