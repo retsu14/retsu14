@@ -57,7 +57,7 @@ const developer_profile: DeveloperProfile = {
   role: "Full-Stack Developer",
   location: "Philippines (UTC+8) — remote friendly",
   core_stack: ["Next.js", "TypeScript", "Node.js", "Laravel", "PostgreSQL"],
-  principles: ["Clean architecture", "Type safety", "Ship, then refine"],
+  principles: ["Clean architecture", "Type safety", "Ship, then refine", "DDD"],
   currently_learning: ["Advanced React patterns", "System design"],
 };
 ```
